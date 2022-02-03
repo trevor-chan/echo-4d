@@ -1,0 +1,7 @@
+*.nii
+*.tif
+*.gz
+*.png
+*.pth
+*.jpg
+*.vtk
